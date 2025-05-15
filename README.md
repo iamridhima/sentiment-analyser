@@ -9,7 +9,7 @@ This FastAPI microservice analyzes the sentiment of input text as **Positive**, 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/sentiment-analyser.git
+   git clone https://github.com/iamridhima/sentiment-analyser.git
    cd sentiment-analyser
 
 2. Create a virtual environment:
