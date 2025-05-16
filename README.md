@@ -3,6 +3,9 @@
 ## What It Does
 This FastAPI microservice analyzes the sentiment of input text as **Positive**, **Negative**, or **Neutral** using TextBlob.
 
+## Demo Video
+Watch the full video [here](https://drive.google.com/file/d/1mm6Unsz434X2SjX7vmO6N7EEZb2GWyzs/view).
+
 ## How to Run
 
 ### Option 1: Run Locally
